@@ -6,4 +6,8 @@
     <version>1.0-SNAPSHOT</version>
     <name>ReactiveBankingSystem</name>
     <packaging>pom</packaging>
+
+    <modules>
+        <module>banking-service</module>
+    </modules>
 </project>
